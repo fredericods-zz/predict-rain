@@ -19,3 +19,5 @@ Code is on `predict_rain.ipynb`. You will also need the dataset `weatherAUS.csv`
 ### Dataset
 
 Dataset is available on [kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package), and it consists of daily weather observations from numerous Australian weather stations. The goal is to predict if it is going to rain tomorrow, that is, predict the target variable RainTomorrow.
+
+## teste
