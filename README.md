@@ -1,2 +1,21 @@
-# predict-rain
-Machine Learning to Predict Rains in Australia
+# Nanodegree Machine LearningEngenheiro de Machine Learning
+# Capstone Project
+## Predicting Rains in Australia
+
+### Instalation
+
+The project requiries **Python 3.7** and the following Python libraries:
+
+- [NumPy](http://www.numpy.org/)
+- [Pandas](http://pandas.pydata.org/)
+- [Matplotlib](http://matplotlib.org/)
+- [seaborn](http://seaborn.pydata.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+
+### Code
+
+Code is on `predict_rain.ipynb`. You will also need the dataset `weatherAUS.csv`.
+
+### Dataset
+
+Dataset is available on [kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package), and it consists of daily weather observations from numerous Australian weather stations. The goal is to predict if it is going to rain tomorrow, that is, predict the target variable RainTomorrow.
