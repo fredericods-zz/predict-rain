@@ -4,7 +4,7 @@
 
 ### Instalation
 
-The project requiries **Python 3.7** and the following Python libraries:
+The project requires **Python 3.7** and the following Python libraries:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org/)
