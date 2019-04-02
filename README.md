@@ -11,6 +11,7 @@ The project requires **Python 3.7** and the following Python libraries:
 - [Matplotlib](http://matplotlib.org/)
 - [seaborn](http://seaborn.pydata.org/)
 - [scikit-learn](http://scikit-learn.org/stable/)
+- [missingno](https://github.com/ResidentMario/missingno)
 
 ### Code
 
