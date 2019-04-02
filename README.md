@@ -1,6 +1,6 @@
 # Udacity Nanodegree Machine Learning
 # Capstone Project
-## Predicting Rains in Australia
+## Forecasting in Australia
 
 ### Instalation
 
